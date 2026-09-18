@@ -1,0 +1,6 @@
+﻿.venv/
+__pycache__/
+*.pyc
+history/
+mc_page.html
+.env
